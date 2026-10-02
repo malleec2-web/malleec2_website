@@ -34,6 +34,6 @@ Remove any conflicting parking, URL-forwarding, `A`, `AAAA` or `CNAME` records f
 | A | `@` | `185.199.109.153` |
 | A | `@` | `185.199.110.153` |
 | A | `@` | `185.199.111.153` |
-| CNAME | `www` | `malleec2-jtewes.github.io` |
+| CNAME | `www` | `malleec2-web.github.io` |
 
 DNS changes can take up to 24 hours to propagate. Configure the custom domain in GitHub before changing DNS to avoid a domain takeover risk.
