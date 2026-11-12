@@ -1,0 +1,5 @@
+# Designer source files (large; web-ready copies live in assets/)
+WEBSITE ASSETS/
+.DS_Store
+.venv/
+__pycache__/
